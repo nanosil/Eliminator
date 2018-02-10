@@ -1,0 +1,51 @@
+c:\users\ro\documents\visual studio 2010\Projects\Eliminatetor\Eliminatetor\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ro\documents\visual studio 2010\Projects\Eliminatetor\Eliminatetor\obj\x86\Debug\Eliminatetor.Properties.Resources.resources
+c:\users\ro\documents\visual studio 2010\Projects\Eliminatetor\Eliminatetor\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\ro\documents\visual studio 2010\Projects\Eliminatetor\Eliminatetor\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\ro\documents\visual studio 2010\Projects\Eliminatetor\Eliminatetor\obj\x86\Debug\Eliminatetor.Form1.resources
+c:\users\ro\documents\visual studio 2010\Projects\Eliminatetor\Eliminatetor\bin\Debug\Eliminatetor.exe
+c:\users\ro\documents\visual studio 2010\Projects\Eliminatetor\Eliminatetor\bin\Debug\Eliminatetor.pdb
+c:\users\ro\documents\visual studio 2010\Projects\Eliminatetor\Eliminatetor\obj\x86\Debug\Eliminatetor.exe
+c:\users\ro\documents\visual studio 2010\Projects\Eliminatetor\Eliminatetor\obj\x86\Debug\Eliminatetor.pdb
+O:\Ferr\My Programs\Eliminatetor\Eliminatetor\obj\x86\Debug\Eliminatetor.exe
+O:\Ferr\My Programs\Eliminatetor\Eliminatetor\obj\x86\Debug\Eliminatetor.pdb
+O:\Ferr\My Programs\Eliminatetor\Eliminatetor\bin\Debug\Eliminatetor.exe
+O:\Ferr\My Programs\Eliminatetor\Eliminatetor\bin\Debug\Eliminatetor.pdb
+O:\Ferr\My Programs\Eliminatetor\Eliminatetor\obj\x86\Debug\ResolveAssemblyReference.cache
+O:\Ferr\My Programs\Eliminatetor\Eliminatetor\obj\x86\Debug\Eliminatetor.Form1.resources
+O:\Ferr\My Programs\Eliminatetor\Eliminatetor\obj\x86\Debug\Eliminatetor.Properties.Resources.resources
+O:\Ferr\My Programs\Eliminatetor\Eliminatetor\obj\x86\Debug\GenerateResource.read.1.tlog
+O:\Ferr\My Programs\Eliminatetor\Eliminatetor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ro\SkyDrive\FERR\My Programs\Eliminatetor\Eliminatetor\obj\x86\Debug\Eliminatetor.exe
+C:\Users\ro\SkyDrive\FERR\My Programs\Eliminatetor\Eliminatetor\obj\x86\Debug\Eliminatetor.pdb
+C:\Users\ro\SkyDrive\FERR\My Programs\Eliminatetor\Eliminatetor\bin\Debug\Eliminatetor.exe
+C:\Users\ro\SkyDrive\FERR\My Programs\Eliminatetor\Eliminatetor\bin\Debug\Eliminatetor.pdb
+C:\Users\ro\SkyDrive\FERR\My Programs\Eliminatetor\Eliminatetor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ro\SkyDrive\FERR\My Programs\Eliminatetor\Eliminatetor\obj\x86\Debug\Eliminatetor.Form1.resources
+C:\Users\ro\SkyDrive\FERR\My Programs\Eliminatetor\Eliminatetor\obj\x86\Debug\Eliminatetor.Properties.Resources.resources
+C:\Users\ro\SkyDrive\FERR\My Programs\Eliminatetor\Eliminatetor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ro\SkyDrive\FERR\My Programs\Eliminatetor\Eliminatetor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Fernando\SkyDrive\FERR\My Programs\Eliminatetor\Eliminatetor\obj\x86\Debug\Eliminatetor.exe
+C:\Users\Fernando\SkyDrive\FERR\My Programs\Eliminatetor\Eliminatetor\obj\x86\Debug\Eliminatetor.pdb
+C:\Users\Fernando\SkyDrive\FERR\My Programs\Eliminatetor\Eliminatetor\bin\Debug\Eliminatetor.exe
+C:\Users\Fernando\SkyDrive\FERR\My Programs\Eliminatetor\Eliminatetor\bin\Debug\Eliminatetor.pdb
+C:\Users\Fernando\SkyDrive\FERR\My Programs\Eliminatetor\Eliminatetor\obj\x86\Debug\Eliminatetor.Form1.resources
+C:\Users\Fernando\SkyDrive\FERR\My Programs\Eliminatetor\Eliminatetor\obj\x86\Debug\Eliminatetor.Properties.Resources.resources
+C:\Users\Fernando\SkyDrive\FERR\My Programs\Eliminatetor\Eliminatetor\obj\x86\Debug\Eliminatetor.csproj.GenerateResource.Cache
+C:\Users\Fernando\SkyDrive\FERR\My Programs\Eliminatetor\Eliminatetor\obj\x86\Debug\Eliminatetor.csprojResolveAssemblyReference.cache
+C:\Users\lsilva9902\Desktop\Eliminatetor\Eliminatetor\obj\x86\Debug\Eliminatetor.exe
+C:\Users\lsilva9902\Desktop\Eliminatetor\Eliminatetor\obj\x86\Debug\Eliminatetor.pdb
+C:\Users\lsilva9902\Desktop\Eliminatetor\Eliminatetor\bin\Debug\Eliminatetor.exe
+C:\Users\lsilva9902\Desktop\Eliminatetor\Eliminatetor\bin\Debug\Eliminatetor.pdb
+C:\Users\lsilva9902\Desktop\Eliminatetor\Eliminatetor\obj\x86\Debug\Eliminatetor.csprojResolveAssemblyReference.cache
+C:\Users\lsilva9902\Desktop\Eliminatetor\Eliminatetor\obj\x86\Debug\Eliminatetor.Form1.resources
+C:\Users\lsilva9902\Desktop\Eliminatetor\Eliminatetor\obj\x86\Debug\Eliminatetor.Properties.Resources.resources
+C:\Users\lsilva9902\Desktop\Eliminatetor\Eliminatetor\obj\x86\Debug\Eliminatetor.csproj.GenerateResource.Cache
+C:\Users\Fernando\OneDrive\FERR\My Programs\Eliminatetor\Eliminatetor\obj\x86\Debug\Eliminatetor.exe
+C:\Users\Fernando\OneDrive\FERR\My Programs\Eliminatetor\Eliminatetor\obj\x86\Debug\Eliminatetor.pdb
+C:\Users\Fernando\OneDrive\FERR\My Programs\Eliminatetor\Eliminatetor\bin\Debug\Eliminatetor.exe
+C:\Users\Fernando\OneDrive\FERR\My Programs\Eliminatetor\Eliminatetor\bin\Debug\Eliminatetor.pdb
+C:\Users\Fernando\OneDrive\FERR\My Programs\Eliminatetor\Eliminatetor\obj\x86\Debug\Eliminatetor.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\OneDrive\FERR\My Programs\Eliminatetor\Eliminatetor\obj\x86\Debug\Eliminatetor.Form1.resources
+C:\Users\Fernando\OneDrive\FERR\My Programs\Eliminatetor\Eliminatetor\obj\x86\Debug\Eliminatetor.Properties.Resources.resources
+C:\Users\Fernando\OneDrive\FERR\My Programs\Eliminatetor\Eliminatetor\obj\x86\Debug\Eliminatetor.csproj.GenerateResource.Cache
